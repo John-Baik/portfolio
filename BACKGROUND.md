@@ -35,6 +35,37 @@ And with that, the Portfolio project is complete! Congratulations!!!
 
 If your document's behavior differs in any way from the example gif provided above, please consult the completed code provided below to compare against your code.
 
+# You're Done!
+
+Once your code is done and your page is looking good, you are ready to commit your code and push it to GitHub.
+
+### Check `git status`
+
+```shell
+git status
+```
+
+Your HTML and CSS files should be listed as untracked or modified. Add them now. If you also added an image, you'll want to add that too.
+
+```shell
+git add index.html
+git add styles.css
+```
+
+Now commit your work.
+
+```shell
+git commit -m 'completed practice portfolio project'
+```
+
+Lastly, push your work to GitHub.
+
+```shell
+git push origin master
+```
+
+You can share a link to your repository if you'd like to share it with an instructor. 🚀
+
 # CODE QUALITY CHECK
 
 With every step of this project, I will provide the completed code for what we have written at the bottom of the section as a reference. **PLEASE NOTE** that I am providing this code as a way for you to double check your completed code for each section after having written it. If you choose to copy my code without writing it yourself first, you are doing so at your own peril ☠️

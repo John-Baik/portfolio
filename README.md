@@ -92,6 +92,7 @@ ___
 1. Technologies
 1. My Projects
 1. Contact Me
+1. Background Image
 
 ___
 

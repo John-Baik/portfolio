@@ -64,7 +64,7 @@ Lastly, push your work to GitHub.
 git push origin master
 ```
 
-You can share a link to your repository if you'd like to share it with an instructor. 🚀
+Direct-message a link to your portfolio repository on GitHub to an instructor! 🚀
 
 # CODE QUALITY CHECK
 

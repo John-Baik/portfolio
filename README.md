@@ -20,7 +20,7 @@ To begin, you'll need a GitHub repository to commit your code to. We will use th
     <p align="center">
       <img src="assets/readme_assets/create-template-repo.png" alt="create template repo image">
     </p>
-1. Leave the **Owner** set to your own GitHub username.
+1. Set the **Owner** to your own GitHub username.
 1. Name your repository **`portfolio`** or something similar if you already have a `portfolio` repository.
 1. Give it the following description: **An HTML and CSS page to showcase my work.**
 1. Ensure the repository is set to **Public**.
